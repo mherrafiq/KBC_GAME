@@ -1,0 +1,12 @@
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameClientOne\KBCGameClientOne\bin\Debug\KBCGameClientOne.exe.config
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameClientOne\KBCGameClientOne\bin\Debug\KBCGameClientOne.exe
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameClientOne\KBCGameClientOne\bin\Debug\KBCGameClientOne.pdb
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameClientOne\KBCGameClientOne\obj\Debug\KBCGameClientOne.exe
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameClientOne\KBCGameClientOne\obj\Debug\KBCGameClientOne.pdb
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\bin\Debug\KBCGameClientOne.exe.config
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\bin\Debug\KBCGameClientOne.exe
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\bin\Debug\KBCGameClientOne.pdb
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\obj\Debug\KBCGameClientOne.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\obj\Debug\KBCGameClientOne.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\obj\Debug\KBCGameClientOne.exe
+C:\Users\HP\Desktop\NP Project\KBCGameClientOne\KBCGameClientOne\obj\Debug\KBCGameClientOne.pdb

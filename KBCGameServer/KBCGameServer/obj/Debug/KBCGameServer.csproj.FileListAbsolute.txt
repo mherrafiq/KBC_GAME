@@ -1,0 +1,13 @@
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameServer\KBCGameServer\bin\Debug\KBCGameServer.exe.config
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.csprojResolveAssemblyReference.cache
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameServer\KBCGameServer\bin\Debug\KBCGameServer.exe
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameServer\KBCGameServer\bin\Debug\KBCGameServer.pdb
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.exe
+c:\users\jamil\onedrive\documents\visual studio 2013\Projects\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.pdb
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\bin\Debug\KBCGameServer.exe.config
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\bin\Debug\KBCGameServer.exe
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\bin\Debug\KBCGameServer.pdb
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.exe
+C:\Users\HP\Desktop\NP Project\KBCGameServer\KBCGameServer\obj\Debug\KBCGameServer.pdb
